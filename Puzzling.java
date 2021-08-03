@@ -20,7 +20,6 @@ public class Puzzling{
 	}
 
 
-
 	public char[] getTenRolls(){
 		char[] arr = new char[10];
 		for(int i=0; i<10; i++){
@@ -41,7 +40,3 @@ public class Puzzling{
 		return Arrays.toString(arr) + "\n" ;
 	}
 }
-
-
-
-
